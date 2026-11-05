@@ -1,6 +1,6 @@
 # UAMS-Web
 
-The web team at the [University of Arkansas for Medical Sciences](https://uams.edu) (UAMS) publishes the code behind UAMS websites here, in the open.
+UAMS Web Services is an organizational unit within the Office of Communications and Marketing, which is an organizational unit within the [University of Arkansas for Medical Sciences](https://uams.edu) (UAMS). We publish the code behind UAMS websites here, in the open.
 
 ## What you will find here
 
